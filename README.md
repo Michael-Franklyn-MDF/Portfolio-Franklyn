@@ -1,6 +1,6 @@
 # Portfolio-Franklyn
 
-A clean, minimal personal portfolio website built from scratch — no frameworks, no dependencies. Designed to showcase my projects and skills to potential employers and collaborators.
+A clean, minimal personal portfolio showcasing my projects and skills as a developer based in Nairobi.
 
 **Live site:** [michael-franklyn-mdf.github.io/Portfolio-Franklyn](https://michael-franklyn-mdf.github.io/Portfolio-Franklyn) <!-- Update once deployed -->
 
@@ -59,9 +59,9 @@ Portfolio-Franklyn/
 | Project | Description | Stack |
 |---|---|---|
 | I-PIPES | Role-based ICT policy evaluation web app with multi-role dashboards | PHP, MySQL, HTML, CSS, JS |
-| Coffee Haven | <!-- Add description --> | HTML, CSS, JS |
-| To Do List | <!-- Add description --> | HTML, CSS, JS |
-| Akan Name Generator | <!-- Add description --> | HTML, CSS, JS |
+| Coffee Haven | A simple yet elegant café website template with a homepage, detailed menu, and contact section — ideal for small businesses needing a clean, ready-to-use site | HTML, CSS, JS |
+| To Do List | Minimalist to-do list for organising tasks and boosting productivity | HTML, CSS, JS |
+| Akan Name Generator | Discover your Akan name based on the day you were born, celebrating Ghanaian naming traditions | HTML, CSS, JS |
 
 ---
 
