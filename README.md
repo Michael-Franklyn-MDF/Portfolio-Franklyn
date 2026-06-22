@@ -21,7 +21,7 @@ This is my personal developer portfolio, built as part of my transition from a B
 - Project cards with hover lift effect
 - Scroll-triggered fade-in animations on all sections
 - Keyboard accessible with visible focus rings
-- Zero external dependencies
+- No build tools or package manager dependencies
 
 ---
 
