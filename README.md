@@ -2,7 +2,7 @@
 
 A clean, minimal personal portfolio showcasing my projects and skills as a developer based in Nairobi.
 
-**Live site:** [michael-franklyn-mdf.github.io/Portfolio-Franklyn](https://michael-franklyn-mdf.github.io/Portfolio-Franklyn) <!-- Update once deployed -->
+**Live site:** [michael-franklyn-mdf.github.io/Portfolio-Franklyn](https://michael-franklyn-mdf.github.io/Portfolio-Franklyn)
 
 ---
 
